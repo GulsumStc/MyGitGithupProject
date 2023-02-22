@@ -7,6 +7,8 @@ public class AtmApp {
         System.out.println("Java is easy");
         //version 3
         System.out.println("version 3");
+        //version 4
+        System.out.println("version 4");
 
 
     }
