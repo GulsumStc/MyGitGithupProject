@@ -10,7 +10,9 @@ public class Deneme {
         //deneme4
         System.out.println("i try to be a super ");
         //deneme5
-        System.out.println("i try to be a super giiirrlllll ");
+
+        //deneme6
+        System.out.println("java is easy");
 
 
     }
