@@ -14,6 +14,9 @@ public class Deneme {
         //deneme6
         System.out.println("java is easy");
 
+        //master
+        System.out.println("masterde degisiklik var");
+
 
     }
 }
